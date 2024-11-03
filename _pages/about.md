@@ -23,10 +23,10 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 - *2024.09*: &nbsp;🎉🎉 One paper about multimodal sentiment analysis is accepted by NeurIPS.
 
 # 📝 Publications 
-* denotes co-first authors. # denotes corresponding author.
+\* denotes co-first authors. # denotes corresponding author.
 
-- Selected Publications
-- 
+## Selected Publications
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lnln.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,7 +51,7 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 **Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**
 
 - 2023
-  - Yuanyuan Liu1, Haoyu Zhang, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
+  - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
 
 
 # 📖 Professional Service
