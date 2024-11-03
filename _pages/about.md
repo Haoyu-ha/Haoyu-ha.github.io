@@ -50,6 +50,11 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 
 **Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**
 
+<!-- [[Paper]()] [<a href="">Link</a>] -->
+
+</div>
+</div>
+
 - 2023
   - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
 
