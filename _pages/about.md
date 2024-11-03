@@ -32,7 +32,7 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 
 [Towards Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/pdf/2409.20012)
 
-**Haoyu ZHang**, Wenbin Wang, Tianshu Yu
+**Haoyu Zhang**, Wenbin Wang, Tianshu Yu
 
 **The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)**
 
