@@ -53,7 +53,6 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 - 2023
   - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
 
-
 # 📖 Professional Service
 - Journal Reviewers:
   - International Journal of Computer Vision (IJCV)
@@ -63,10 +62,8 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 Conference Reviewers:
 - International Conference on Learning Representation (ICLR)
 
-  
 # 💻 Internships
 - *2024.06 - 2024.09*, Xiaomi AI Lab, China.
-
 
 # 🎖 Honors and Awards
 - Scholar Award, NeurIPS 2024
