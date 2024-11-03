@@ -46,7 +46,7 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 
 [Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.49.pdf)
 
-**Haoyu ZHang**, Yu Wang, Guanghao Yin, Kejun Liu, Yuanyuan Liu, Tianshu Yu
+**Haoyu Zhang**, Yu Wang, Guanghao Yin, Kejun Liu, Yuanyuan Liu, Tianshu Yu
 
 **The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)**
 
