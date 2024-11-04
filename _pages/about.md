@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a research assiatant at School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) and a master student at the Department of Computer Science, University College London (UCL). I work closely with Prof. Tianshu Yu. My primary research interests includes multimodal machine learning, AI4Science and affective computing.
+I am now a research assiatant and incoming PhD student (25 Spring) at School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) and a master student at the Department of Computer Science, University College London (UCL). I work closely with [Prof. Tianshu Yu](https://scholar.google.com/citations?user=MTHO7DsAAAAJ&hl=en). My primary research interests includes multimodal machine learning, AI4Science and affective computing.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper about multimodal sentiment analysis is accepted by NeurIPS.
@@ -56,13 +56,13 @@ I am now a research assiatant at School of Data Science, The Chinese University 
 </div>
 
 - 2024
-  - Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang. 2024. Token-disentangling mutual Transformer for Multimodal Emotion Recognition. Engineering Applications of Artificial Intelligence, 133, p.108348.
+  - Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang. [Token-disentangling mutual Transformer for Multimodal Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0952197624005062). Engineering Applications of Artificial Intelligence, 2024
     
 - 2023
   - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
-  - Zhang-Hua Fu, Sipeng Sun, Jintong Ren, Tianshu Yu, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu. A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem. arXiv, 2023
-  - Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen. Yibing Zhan. Expression Snippet Transformer for Robust Video-based Facial Expression Recognition. Pattern Recognition, 2023
-  - Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo. 2024. Multi domain Dynamic Mean Teacher for Object Detection in Complex Weather. Journal of Computer Aided Design \& Computer Graphics, 2023
+  - Zhang-Hua Fu, Sipeng Sun, Jintong Ren, Tianshu Yu, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu. [A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem](https://arxiv.org/pdf/2308.04639). arXiv, 2023
+  - Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen. Yibing Zhan. [Expression Snippet Transformer for Robust Video-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323000699). Pattern Recognition, 2023
+  - Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo. 2024. [Multi domain Dynamic Mean Teacher for Object Detection in Complex Weather](https://www.jcad.cn/en/article/pdf/preview/10.3724/SP.J.1089.2024.19820.pdf). Journal of Computer Aided Design \& Computer Graphics, 2023
 
 # 📖 Professional Service
 - Journal Reviewers:
