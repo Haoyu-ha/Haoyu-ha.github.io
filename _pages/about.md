@@ -56,11 +56,11 @@ I am now a research assiatant and incoming PhD student (25 Spring) at School of 
 </div>
 
 - 2024
+  - Zhang-Hua Fu, Sipeng Sun, Jintong Ren, Tianshu Yu, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu. [A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem](https://arxiv.org/pdf/2308.04639). International Journal of Computer Vision (IJCV), 2024. (Accepted)
   - Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang. [Token-disentangling mutual Transformer for Multimodal Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0952197624005062). Engineering Applications of Artificial Intelligence, 2024
     
 - 2023
   - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). arXiv, 2023
-  - Zhang-Hua Fu, Sipeng Sun, Jintong Ren, Tianshu Yu, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu. [A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem](https://arxiv.org/pdf/2308.04639). arXiv, 2023
   - Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen. Yibing Zhan. [Expression Snippet Transformer for Robust Video-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323000699). Pattern Recognition, 2023
   - Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo. 2024. [Multi domain Dynamic Mean Teacher for Object Detection in Complex Weather](https://www.jcad.cn/en/article/pdf/preview/10.3724/SP.J.1089.2024.19820.pdf). Journal of Computer Aided Design \& Computer Graphics, 2023
 
