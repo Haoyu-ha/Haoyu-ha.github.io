@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a research assiatant and incoming PhD student (25 Spring) at School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) and a master student at the Department of Computer Science, University College London (UCL). I work closely with [Prof. Tianshu Yu](https://scholar.google.com/citations?user=MTHO7DsAAAAJ&hl=en). My primary research interests includes multimodal machine learning, AI4Science and affective computing.
+I am now an incoming PhD student (Jan. 2025) in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://scholar.google.com/citations?user=MTHO7DsAAAAJ&hl=en). My primary research interests includes multimodal machine learning, AI4Science and affective computing.
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 One paper about multimodal emotion recognition is accepted by IJCV.
-- *2024.09*: &nbsp;🎉🎉 One paper about multimodal sentiment analysis is accepted by NeurIPS.
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IJCV.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS.
 
 # 📝 Publications 
 \* denotes co-first authors. # denotes corresponding author.
