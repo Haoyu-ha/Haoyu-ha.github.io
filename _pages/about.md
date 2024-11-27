@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an incoming PhD student (Jan. 2025) in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). My primary research interests includes multimodal machine learning, AI4Science and affective computing. Previously, I conducted research at China University of Geosciences, Wuhan (CUG), and University College London (UCL) under the supervision of [Prof. Yuanyuan Liu](https://grzy.cug.edu.cn/liuyuanyuan/en/index.htm) and [Dr. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), respectively. I am open to academic collaboration. If you're interested, feel free to reach out!
+I am now an incoming PhD student (Jan. 2025) in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). My primary research interests includes multimodal machine learning, AI4Science and affective computing. Previously, I conducted research at University College London (UCL) and China University of Geosciences, Wuhan (CUG) under the supervision of [Dr. Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/) and [Prof. Yuanyuan Liu](https://grzy.cug.edu.cn/liuyuanyuan/en/index.htm), respectively. I am open to academic collaboration. If you're interested, feel free to reach out!
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IJCV.
