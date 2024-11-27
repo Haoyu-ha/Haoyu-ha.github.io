@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an incoming PhD student (Jan. 2025) in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://scholar.google.com/citations?user=MTHO7DsAAAAJ&hl=en). My primary research interests includes multimodal machine learning, AI4Science and affective computing.
+I am now an incoming PhD student (Jan. 2025) in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang]([https://scholar.google.com/citations?user=MTHO7DsAAAAJ&hl=en](https://sse.cuhk.edu.cn/faculty/tangxiaoying)). My primary research interests includes multimodal machine learning, AI4Science and affective computing.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IJCV.
