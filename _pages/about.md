@@ -60,7 +60,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
   - Zhang-Hua Fu, Sipeng Sun, Jintong Ren, Tianshu Yu, **Haoyu Zhang**, Yuanyuan Liu, Lingxiao Huang, Xiang Yan, Pinyan Lu. [A Hierarchical Destroy and Repair Approach for Solving Very Large-Scale Travelling Salesman Problem](https://arxiv.org/pdf/2308.04639). arXiv, 2023
   
 - 2024
-  - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). International Journal of Computer Vision (IJCV), 2024. (Accepted)
+  - Yuanyuan Liu, **Haoyu Zhang**#, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen. [Noise-Resistant Multimodal Transformer for Emotion Recognition](https://arxiv.org/pdf/2305.02814). International Journal of Computer Vision (IJCV), 2024.
   - Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang. [Token-disentangling mutual Transformer for Multimodal Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0952197624005062). Engineering Applications of Artificial Intelligence, 2024
     
 - 2023
@@ -78,6 +78,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
 
 # 💻 Internships
 - *2024.06 - 2024.09*, Xiaomi AI Lab, P.R. China
+- *2021.09 - 2022,10*, Shenzhen Institute of Artificial Intelligence and Robotics for Society, P.R. China
 
 # 🎖 Honors and Awards
 - Scholar Award, NeurIPS 2024
