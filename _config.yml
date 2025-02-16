@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu ZHANG"
-description              : "UCL"
+description              : ""
 repository               : "Haoyu-ha/haoyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Haoyu ZHANG"
   avatar           : "images/haoyu.jpg"
   bio              : 
-  location         : "London, UK"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=No3YWMAAAAAJ&hl=en"
-  email            : "haoyu.zhang.23@ucl.ac.uk"
+  email            : "haoyuzhang3@cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
