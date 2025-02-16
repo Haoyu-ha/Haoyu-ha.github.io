@@ -75,6 +75,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
     
 - Conference Reviewers:
   - International Conference on Learning Representation (ICLR)
+  - Annual Meeting of the Association for Computational Linguistics (ACL)
 
 # 💻 Internships
 - *2024.06 - 2024.09*, Xiaomi AI Lab, P.R. China
