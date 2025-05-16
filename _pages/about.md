@@ -74,6 +74,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
   - IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
     
 - Conference Reviewers:
+  - Annual Conference on Neural Information Processing Systems (NeurIPS)
   - International Conference on Learning Representation (ICLR)
   - Annual Meeting of the Association for Computational Linguistics (ACL)
 
