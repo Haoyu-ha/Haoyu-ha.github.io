@@ -33,6 +33,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
 <div class='paper-box-text' markdown="1">
 
 Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting
+
 **Haoyu Zhang**, Yinan Zhang, Chaolong Ying, Xiaoying Tang, Tianshu Yu
 
 **The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**
