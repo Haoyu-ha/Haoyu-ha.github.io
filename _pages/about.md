@@ -20,8 +20,9 @@ redirect_from:
 I am now a PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). My primary research interests includes multimodal machine learning, AI4Science and affective computing. I am open to academic collaboration. If you're interested, feel free to reach out!
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IJCV.
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications 
 \* denotes co-first authors. # denotes corresponding author.
@@ -29,6 +30,19 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
 ## Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lnln.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting
+**Haoyu Zhang**, Yinan Zhang, Chaolong Ying, Xiaoying Tang, Tianshu Yu
+
+**The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)**
+
+<!-- [[Paper]()] [<a href="">Link</a>] -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/almt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/pdf/2409.20012)
