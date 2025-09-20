@@ -93,7 +93,6 @@ Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Pro
   - Annual Meeting of the Association for Computational Linguistics (ACL)
 
 # 💻 Internships
-- *2025.04 - Present* &nbsp;&nbsp; LightSpeed Studios, Tencent, P. R. China
 - *2024.06 - 2024.09* &nbsp;&nbsp; Xiaomi AI Lab, P. R. China
 - *2021.09 - 2022,10* &nbsp;&nbsp; Shenzhen Institute of Artificial Intelligence and Robotics for Society, P. R. China
 
