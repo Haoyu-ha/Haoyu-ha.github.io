@@ -42,7 +42,7 @@ Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Pro
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/lnln.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lnln.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/pdf/2409.20012)
