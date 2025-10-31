@@ -32,7 +32,7 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MMSLF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting
+[Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting](https://neurips.cc/virtual/2025/loc/san-diego/poster/118233)
 
 **Haoyu Zhang**, Yinan Zhang, Chaolong Ying, Xiaoying Tang, Tianshu Yu
 
@@ -82,11 +82,13 @@ Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Pro
   - Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen. Yibing Zhan. [Expression Snippet Transformer for Robust Video-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323000699). Pattern Recognition, 2023
   - Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo. 2024. [Multi domain Dynamic Mean Teacher for Object Detection in Complex Weather](https://www.jcad.cn/en/article/pdf/preview/10.3724/SP.J.1089.2024.19820.pdf). Journal of Computer Aided Design \& Computer Graphics, 2023
 
-# 📖 Professional Service
+# 📖 Service
 - Journal Reviewers:
   - International Journal of Computer Vision (IJCV)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
+  - Engineering Applications of Artificial Intelligence (EAAI)
+  - Expert Systems with Applications (ESWA)
     
 - Conference Reviewers:
   - Annual Conference on Neural Information Processing Systems (NeurIPS)
@@ -94,8 +96,9 @@ Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Pro
   - Annual Meeting of the Association for Computational Linguistics (ACL)
 
 # 💻 Internships
-- *2024.06 - 2024.09* &nbsp;&nbsp; Xiaomi AI Lab, P. R. China
-- *2021.09 - 2022,10* &nbsp;&nbsp; Shenzhen Institute of Artificial Intelligence and Robotics for Society, P. R. China
+- *2025.04 - Present* &nbsp;&nbsp; LightSpeed Studios, Tencent, China
+- *2024.06 - 2024.09* &nbsp;&nbsp; Xiaomi AI Lab, China
+- *2021.09 - 2022,10* &nbsp;&nbsp; Shenzhen Institute of Artificial Intelligence and Robotics for Society, China
 
 # 🎖 Honors and Awards
 - Scholar Award, NeurIPS 2024
