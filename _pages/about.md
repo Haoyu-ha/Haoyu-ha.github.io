@@ -95,6 +95,10 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
   - International Conference on Learning Representation (ICLR)
   - Annual Meeting of the Association for Computational Linguistics (ACL)
 
+- Teaching Assistant:
+  - CSC1001, Introduction to Programming Languages, Fall 2025
+  - CSC3100, Data Structure, Spring 2026
+
 # 💻 Internships
 - *2025.04 - Present* &nbsp;&nbsp; LightSpeed Studios, Tencent, China
 - *2024.06 - 2024.09* &nbsp;&nbsp; Xiaomi AI Lab, China
