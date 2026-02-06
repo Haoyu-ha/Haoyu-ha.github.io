@@ -87,17 +87,19 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
   - International Journal of Computer Vision (IJCV)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
+  - IEEE Transactions on Mobile Computing (TMC)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Expert Systems with Applications (ESWA)
     
 - Conference Reviewers:
   - Annual Conference on Neural Information Processing Systems (NeurIPS)
   - International Conference on Learning Representation (ICLR)
+  - International Conference on Machine Learning (ICML)
   - Annual Meeting of the Association for Computational Linguistics (ACL)
 
 - Teaching Assistant:
-  - CSC1001, Introduction to Programming Languages, Fall 2025
   - CSC3100, Data Structure, Spring 2026
+  - CSC1001, Introduction to Programming Languages, Fall 2025
 
 # 💻 Internships
 - *2025.04 - Present* &nbsp;&nbsp; LightSpeed Studios, Tencent, China
@@ -105,4 +107,5 @@ I am now a PhD student in Computer Science at The Chinese University of Hong Kon
 - *2021.09 - 2022,10* &nbsp;&nbsp; Shenzhen Institute of Artificial Intelligence and Robotics for Society, China
 
 # 🎖 Honors and Awards
+- DYP Travel Award, CUHK-Shenzhen, 2025
 - Scholar Award, NeurIPS 2024
