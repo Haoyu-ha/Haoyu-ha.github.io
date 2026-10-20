@@ -1,0 +1,6 @@
+<li class="publication-item"{% if include.anchor %} id="{{ include.anchor | escape }}"{% endif %}>
+  <div class="publication-title">{% if include.paper %}<a href="{{ include.paper | escape }}">{{ include.title | escape }}</a>{% else %}{{ include.title | escape }}{% endif %}</div>
+  <div class="publication-authors">{{ include.authors | markdownify }}</div>
+  <div class="publication-venue">{{ include.venue | markdownify }}</div>
+  {% include publication-links.html title=include.title repo=include.repo project=include.project scholar_id=include.scholar_id %}
+</li>

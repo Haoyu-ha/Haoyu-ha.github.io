@@ -58,6 +58,20 @@ Some examples:
 
 ## Debug Locally
 
+### Publication badges
+
+Use the shared component after a publication entry:
+
+```liquid
+{% include publication-links.html title="Exact paper title" repo="owner/code-repository" project="https://example.com/project/" %}
+```
+
+`repo` and `project` are optional. Code badges show GitHub stars through Shields.io. Citation badges link to Google Scholar and show counts from this repository's `google-scholar-stats` branch. Publications match by exact title after normalizing case and punctuation; pass `scholar_id="profile_id:paper_id"` when the Scholar title differs. Missing or ambiguous data leaves a usable Citations link without a count.
+
+The **Get Citation Data** GitHub Actions workflow runs daily, on relevant changes to `main`, and manually through **Actions → Get Citation Data → Run workflow**. It uses the public Scholar profile ID by default, so no new secret is required. Ensure Actions is enabled; a successful first run creates the statistics branch. Failed crawls retain the last successful data. `_config.yml`'s `repository` must name the actual homepage repository. Star and citation counts are cached and are not instantaneous.
+
+### Development server
+
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
 1. Run `bash run_server.sh` to start Jekyll livereload server.

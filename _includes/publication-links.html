@@ -1,0 +1,19 @@
+{%- capture publication_links -%}
+<span class="publication-links">
+  {%- if include.project -%}
+  <a class="publication-link" href="{{ include.project | escape }}"><i class="fas fa-external-link-alt" aria-hidden="true"></i> Project</a>
+  {%- endif -%}
+  {%- if include.repo -%}
+  <a class="publication-link publication-code" href="https://github.com/{{ include.repo | escape }}" aria-label="Code and GitHub stars for {{ include.title | escape }}"><i class="fab fa-github" aria-hidden="true"></i> Code <img class="github-stars" src="https://img.shields.io/github/stars/{{ include.repo | escape }}?style=social&amp;label=Stars" alt="GitHub stars" height="20" loading="lazy"></a>
+  {%- endif -%}
+  {%- if include.scholar_id -%}
+    {%- assign citation_query = include.scholar_id | url_encode -%}
+    {%- assign citation_url = "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=" | append: citation_query -%}
+  {%- else -%}
+    {%- assign citation_query = include.title | prepend: '"' | append: '"' | url_encode -%}
+    {%- assign citation_url = "https://scholar.google.com/scholar?q=" | append: citation_query -%}
+  {%- endif -%}
+  <a class="publication-link citation-link" href="{{ citation_url | escape }}" data-paper-title="{{ include.title | escape }}"{% if include.scholar_id %} data-scholar-id="{{ include.scholar_id | escape }}"{% endif %} aria-label="Google Scholar citations for {{ include.title | escape }}"><i class="fas fa-quote-right" aria-hidden="true"></i> Citations <span class="citation-count" hidden></span></a>
+</span>
+{%- endcapture -%}
+{{- publication_links | strip_newlines -}}
