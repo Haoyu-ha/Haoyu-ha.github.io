@@ -106,14 +106,14 @@ I am a PhD student in Computer Science at The Chinese University of Hong Kong, S
 
 <ul class="publication-list">
 {% include publication-entry.html title="Noise-Resistant Multimodal Transformer for Emotion Recognition" authors="Yuanyuan Liu, **Haoyu Zhang**<sup>†</sup>, Yibing Zhan, Zijing Chen, Guanghao Yin, Lin Wei, Zhe Chen" venue="**International Journal of Computer Vision (IJCV)**, 2024" paper="https://arxiv.org/pdf/2305.02814" %}
-{% include publication-entry.html title="Token-disentangling mutual Transformer for Multimodal Emotion Recognition" authors="Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang" venue="**Engineering Applications of Artificial Intelligence**, 2024" paper="https://www.sciencedirect.com/science/article/pii/S0952197624005062" %}
+{% include publication-entry.html title="Token-disentangling mutual Transformer for Multimodal Emotion Recognition" authors="Guanghao Yin, Yuanyuan Liu, Tengfei Liu, **Haoyu Zhang**, Ning Zhou, Fang Fang, Chang Tang, Xiaoliang Jiang" venue="**Engineering Applications of Artificial Intelligence**, 2024" paper="https://www.sciencedirect.com/science/article/pii/S0952197624005062" repo="cug-ygh/TMT" %}
 {% include publication-entry.html title="Multi domain Dynamic Mean Teacher for Object Detection in Complex Weather" authors="Yuanyuan Liu, Chaofan Wang, Wenbin Wang, **Haoyu Zhang**, Zhongwen Luo" venue="**Journal of Computer-Aided Design & Computer Graphics**, 2024" paper="https://www.jcad.cn/en/article/pdf/preview/10.3724/SP.J.1089.2024.19820.pdf" %}
 </ul>
 
 <h3 class="publication-year">2023</h3>
 
 <ul class="publication-list">
-{% include publication-entry.html title="Expression Snippet Transformer for Robust Video-based Facial Expression Recognition" authors="Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen, Yibing Zhan" venue="**Pattern Recognition**, 2023" paper="https://www.sciencedirect.com/science/article/pii/S0031320323000699" %}
+{% include publication-entry.html title="Expression Snippet Transformer for Robust Video-based Facial Expression Recognition" authors="Yuanyuan Liu, Wenbin Wang, Chuanxu Feng, **Haoyu Zhang**, Zhe Chen, Yibing Zhan" venue="**Pattern Recognition**, 2023" paper="https://www.sciencedirect.com/science/article/pii/S0031320323000699" repo="DreamMr/EST" %}
 </ul>
 
 # 📖 Service
@@ -159,7 +159,7 @@ I am a PhD student in Computer Science at The Chinese University of Hong Kong, S
     <p class="experience-details"><span class="program-label">Project UP (青云计划)</span> · China</p>
   </li>
   <li>
-    <div class="experience-heading"><strong>Xiaomi AI Lab</strong><span class="experience-dates">Jun 2024 – Sep 2024</span></div>
+    <div class="experience-heading"><strong>MILM Plus, Xiaomi</strong><span class="experience-dates">Jun 2024 – Sep 2024</span></div>
     <p class="experience-details">China</p>
   </li>
   <li>
