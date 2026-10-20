@@ -10,63 +10,39 @@ var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
-
-function updateNav() {
-
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
-
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
-    breaks.push($vlinks.width());
-
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
-
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
-
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
-    }
-  }
-
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
-  }
-
+function closeNavMenu() {
+  $hlinks.addClass('hidden');
+  $btn.removeClass('close').attr('aria-expanded', 'false');
 }
 
-// Window listeners
+function updateNav() {
+  // Reconsider every link so widening the window restores all items that fit.
+  $hlinks.children().appendTo($vlinks);
+  $btn.addClass('hidden');
+  closeNavMenu();
+  var availableSpace = $nav.width();
 
-$(window).resize(function() {
-  updateNav();
-});
+  while ($vlinks.width() > availableSpace && $vlinks.children().length > 1) {
+    $vlinks.children().last().prependTo($hlinks);
+    $btn.removeClass('hidden');
+    availableSpace = $nav.width() - $btn.outerWidth(true) - 16;
+  }
+  $btn.attr('count', $hlinks.children().length);
+}
 
-$btn.on('click', function() {
+$(window).on('resize load', updateNav);
+$btn.on('click', function () {
   $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
+  $(this).toggleClass('close').attr('aria-expanded', !$hlinks.hasClass('hidden'));
 });
-
+$hlinks.on('click', 'a', closeNavMenu);
+$nav.on('keydown', function (event) {
+  if (event.key === 'Escape') {
+    closeNavMenu();
+    $btn.trigger('focus');
+  }
+});
+if (document.fonts && document.fonts.ready) {
+  document.fonts.ready.then(updateNav);
+}
 updateNav();
