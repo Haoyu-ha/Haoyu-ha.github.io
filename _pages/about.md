@@ -23,7 +23,7 @@ I am a PhD student in Computer Science at The Chinese University of Hong Kong, S
 </ul>
 
 # 📝 Publications 
-<p class="publication-note"><sup>*</sup> Equal contribution (co-first authors) · <sup>†</sup> Corresponding author</p>
+<p class="publication-note"><sup>*</sup> Equal Contribution · <sup>†</sup> Corresponding author</p>
 
 ## Selected Publications
 
