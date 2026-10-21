@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). My primary research interests include multimodal machine learning, AI for Science (AI4Science), and affective computing. I welcome academic collaboration. Please feel free to get in touch!
+I am a PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I work closely with [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu) and [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying). My primary research interests include multimodal machine learning, Omni LLMs, and affective computing. I welcome academic collaboration. Please feel free to get in touch!
 
 # 🔥 News
 
